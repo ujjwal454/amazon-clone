@@ -1,0 +1,17 @@
+.imageSingle{
+    width:100%;
+    object-fit: cover;
+    object-position: top center;
+    height: 100%;
+    margin: 10px auto 0 auto;
+}
+.single-image{
+    width: 100%;
+    overflow: hidden;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ddd;
+    height: 100px;
+}
